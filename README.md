@@ -11,6 +11,7 @@ If the codes are utilized, please cite the following paper:
 * [draw3dBuilding.m](/draw3dBuilding.m): draw the 3d building structures in urban.
 <img src="/3d_buildings.png">
 
+## Visualization of the 3d plume of pollution in urban area
 * [draw3d.m](/draw3d.m): draw the 3d plume of the pollutants in urban.
 <img src="/3dConc_1.png">
 
