@@ -9,9 +9,9 @@ If the codes are utilized, please cite the following paper:
 
 ## Visualization of the 3d buildings in urban area
 * [draw3dBuilding.m](/draw3dBuilding.m): draw the 3d building structures in urban.
-<img src="/3d_buildings.png">
+[<img src="/3d_buildings.png">](https://pubs.acs.org/doi/full/10.1021/acs.est.0c02895)
 
 ## Visualization of the 3d plume of pollution in urban area
 * [draw3d.m](/draw3d.m): draw the 3d plume of the pollutants in urban.
-<img src="/3dConc_1.png">
+[<img src="/3dConc_1.png">](https://pubs.acs.org/doi/full/10.1021/acs.est.0c02895)
 
