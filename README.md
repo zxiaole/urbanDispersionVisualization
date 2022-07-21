@@ -4,5 +4,5 @@
 The codes are developed to visualize the 3d plume of the pollutants in urban area calculated by the [GRAL/GRAMM model](https://gral.tugraz.at/).
 
 ## Visualization of the 3d buildings in urban area
-* [draw3dBuilding.py](/draw3dBuilding.m): draw the 3d building structures in urban.
+* [draw3dBuilding.m](/draw3dBuilding.m): draw the 3d building structures in urban.
 
