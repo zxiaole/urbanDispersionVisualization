@@ -5,4 +5,4 @@ The codes are developed to visualize the 3d plume of the pollutants in urban are
 
 ## Visualization of the 3d buildings in urban area
 * [draw3dBuilding.m](/draw3dBuilding.m): draw the 3d building structures in urban.
-<img src="/3d_903.png" width="800" height="600">
+<img src="/3d_buildings.png" width="800" height="600">
