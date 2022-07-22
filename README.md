@@ -15,3 +15,5 @@ If the codes are utilized, please cite the following paper:
 * [draw3d.m](/draw3d.m): draw the 3d plume of the pollutants in urban.
 [<img src="/3dConc_1.png">](https://pubs.acs.org/doi/full/10.1021/acs.est.0c02895)
 
+[<img src="/output.gif">](https://pubs.acs.org/doi/full/10.1021/acs.est.0c02895)
+
